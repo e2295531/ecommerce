@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "le curcuma",
+      "description": "Cette épice jaune vif est souvent utilisée dans la cuisine indienne et asiatique",
+      "price": 13,
+      "category": "exotique"
+    },
+    {
+      "id": 3,
+      "name": "La cannelle",
+      "description": "Cette épice douce et chaude est utilisée dans les desserts et les plats sucrés dans le monde entier",
+      "price": 5.99,
+      "category": " épicée"
+    },
+    {
+      "id": 4,
+      "name": "poivre noir",
+      "description": "connu pour sa saveur piquante et chaude",
+      "price": 18,
+      "category": "piquante"
+    },
+    {
+      "id": 5,
+      "name": "Le cumin",
+      "description": "Le cumin a un goût terreux et chaud, avec une légère note de noisette",
+      "price": 10,
+      "category": "chaud"
+    },
+    {
+      "name": "Le gingembre",
+      "description": "Le gingembre a une saveur légèrement piquante et chaude, avec une note de citron",
+      "price": "11",
+      "category": "chaude",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "name": "Le paprika",
+      "description": "Le paprika est une épice douce et fumée, souvent utilisée dans la cuisine espagnole et hongroise pour ajouter de la couleur et de la saveur",
+      "price": "30",
+      "category": "douce"
+    },
+    {
+      "name": "La cardamome",
+      "description": " La cardamome a une saveur légèrement sucrée et citronnée, avec une note de camphre.",
+      "price": "15.99",
+      "category": "sucrée ",
+      "id": 8
+    }
+  ]
+}
